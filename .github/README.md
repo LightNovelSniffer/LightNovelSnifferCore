@@ -1,7 +1,9 @@
 # LightNovelSniffer
-C# .Net 4.5 Web crawler to create PDF and Epub version of online light novels.
+C# .Net Core 2.0 Web crawler to create PDF and Epub version of online light novels.
 
-This is a core library. It will need a proper interface to work. For now, there is only a [CLI available](https://github.com/JoshuaArus/LightNovelSniffer-CLI). A [GUI](https://github.com/JoshuaArus/LightNovelSniffer-GUI) is planned but haven't been started yet (feel free to join the adventure !)
+It's a portage of the .Net 4.5 version available [here](https://github.com/JoshuaArus/LightNovelSniffer).
+
+This is a core library. It will need a proper interface to work. For now, there is only a [CLI available](https://github.com/JoshuaArus/LightNovelSnifferCore-CLI).
 
 ## Instructions
 ### Entry Point
